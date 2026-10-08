@@ -103,25 +103,28 @@ This list is growing whenever we find time to study.
 ---
 
 ## Repository Structure
+```text
 qiskit-fall-fest-2026/
 │
-├── README.md # You are here
-├── lectures/ # Our notes from self-study and fest lectures
-│ ├── 01-history-and-big-picture.md
-│ ├── 02-qubits-and-superposition.md
-│ ├── 03-quantum-gates-and-circuits.md
-│ └── fest-notes/ # Notes from the Qiskit Fall Fest sessions we attend
+├── README.md                  # You are here
+├── lectures/                  # Our notes from self-study and fest lectures
+│   ├── 01-history-and-big-picture.md
+│   ├── 02-qubits-and-superposition.md
+│   ├── 03-quantum-gates-and-circuits.md
+│   └── fest-notes/            # Notes from the Qiskit Fall Fest sessions we attend
 │
-├── code/ # Our Qiskit practice code
-│ ├── 01_bell_state.ipynb
-│ ├── 02_ghz_state.ipynb
-│ └── 03_first_vqc.ipynb
+├── code/                      # Our Qiskit practice code
+│   ├── 01_bell_state.ipynb
+│   ├── 02_ghz_state.ipynb
+│   └── 03_first_vqc.ipynb
 │
-├── notes/ # Rough notes, questions, ideas
-│ └── daily-log.md
+├── notes/                     # Rough notes, questions, ideas
+│   └── daily-log.md
 │
-├── resources/ # Links to videos, papers, tutorials
+├── resources/                 # Links to videos, papers, tutorials
 └── learning-resources.md
+```
+
 
 ---
 
